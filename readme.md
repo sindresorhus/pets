@@ -15,6 +15,10 @@ Dofle. Owner: [Sindre Sorhus](http://sindresorhus.com)
 Bear. Owner: [Eduardo Royer](https://github.com/eduardoroyer)
 
 
+![](gunther.jpg)
+Gunther. Owner: [Jake Burkhead](https://github.com/jlburkhead)
+
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
