@@ -11,6 +11,9 @@ Kira. Owner: [Sindre Sorhus](http://sindresorhus.com)
 ![](dofle.jpg)
 Dofle. Owner: [Sindre Sorhus](http://sindresorhus.com)
 
+![](bear.jpg)
+Bear. Owner: [Eduardo Royer](https://github.com/eduardoroyer)
+
 
 ## License
 
