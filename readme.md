@@ -12,7 +12,7 @@ Kira. Owner: [Sindre Sorhus](http://sindresorhus.com)
 Dofle. Owner: [Sindre Sorhus](http://sindresorhus.com)
 
 ![](pipsqueek.jpg)
-Pip+Squeek. Owner [Daniel Mills](http://yomills.com)
+Pip + Squeek. Owner: [Daniel Mills](http://yomills.com)
 
 
 ## License
