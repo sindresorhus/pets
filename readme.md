@@ -2,11 +2,11 @@
 
 > Cute/doozie/polished/lovely/stylish/neat/solid/breathtaking/wondrous pets
 
+
 ## Add your pets!
 
 ![](kira.jpg)
 Kira. Owner: [Sindre Sorhus](http://sindresorhus.com)
-
 
 ![](dofle.jpg)
 Dofle. Owner: [Sindre Sorhus](http://sindresorhus.com)
@@ -14,9 +14,11 @@ Dofle. Owner: [Sindre Sorhus](http://sindresorhus.com)
 ![](bear.jpg)
 Bear. Owner: [Eduardo Royer](https://github.com/eduardoroyer)
 
-
 ![](gunther.jpg)
 Gunther. Owner: [Jake Burkhead](https://github.com/jlburkhead)
+
+![](pipsqueek.jpg)
+Pip + Squeek. Owner: [Daniel Mills](http://yomills.com)
 
 
 ## License
