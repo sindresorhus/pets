@@ -20,6 +20,8 @@ Gunther. Owner: [Jake Burkhead](https://github.com/jlburkhead)
 ![](pipsqueek.jpg)
 Pip + Squeek. Owner: [Daniel Mills](http://yomills.com)
 
+![](rusty.jpg)
+Rusty. Owner: [Josh Max](http://github.com/joshumax)
 
 ## License
 
