@@ -26,6 +26,9 @@ Hansi + Emma. Owner: [Michael Kühnel](http://michael-kuehnel.de)
 ![](brico.jpg)
 Brico. Owner: [Jerome Lachaud](https://github.com/jeromelachaud)
 
+![](rusty.jpg)
+Rusty. Owner: [Josh Max](http://github.com/joshumax)
+
 
 ## License
 
