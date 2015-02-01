@@ -23,6 +23,9 @@ Pip + Squeek. Owner: [Daniel Mills](http://yomills.com)
 ![](hansi-emma.jpg)
 Hansi + Emma. Owner: [Michael Kühnel](http://michael-kuehnel.de)
 
+![](brico.jpg)
+Brico. Owner: [Jerome Lachaud](https://github.com/jeromelachaud)
+
 
 ## License
 
